@@ -1,0 +1,1 @@
+# How-To-Multiple-value-Insert-in-same-column-in-php-using-array
